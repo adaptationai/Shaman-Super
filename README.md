@@ -25,6 +25,19 @@ Supervized learning.
     conda install --yes --file requirements.txt
 	```
 	```
+- Install Manually
+	```bash
+    conda install -c conda-forge py-xgboost
+	conda install -c fastchan fastai
+	conda install -c conda-forge optuna
+	pip install wandb
+
+
+
+
+
+	```
+	```
 
 ## Instructions
 
